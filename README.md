@@ -77,7 +77,7 @@ By splitting their websites, **The Recording Academy** achieved stronger audienc
 
 Hi! I’m **Liz Mowrer**, a data analyst passionate about transforming complex datasets into actionable business insights.  
 
-📍 Based in Chicago, IL 
+📍 Based in Chicago, IL
 🎓 Trained in **SQL, Python, Excel, and Data Visualization** through *The Global Career Accelerator*  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/lizmowrer/)  
 📧 **lizmowrer@gmail.com**
